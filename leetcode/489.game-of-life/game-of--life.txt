@@ -1,0 +1,46 @@
+0-1 死
+2-3 活
+4-? 死
+
+game of life
+..#....
+#.#....
+.##....
+.......
+
+.#.....
+..##...
+.##....
+.......
+
+
+[1][4], [2][4], [3][4], [3][3], [2][2]
+
+[]
+[]
+[]
+[]
+
+private:
+int height, width
+int* status = new int[height * width]
+int* next_output = new
+
+public:
+cell = [&]int(x,y)->int {
+    return status[x + 10*y]
+}
+one_cell_next(x,y) {
+    neigber_count = 
+            status[x-1 + height*(y-1)] + status[x-1 + height*y] + status[x-1 + height*(y+1)] +
+            status[x   + height*(y-1)] +          0             + status[x   + height*(y+1)] +
+            status[x+1 + height*(y-1)] + status[x+1 + height*y] + status[x+1 + height*(y+1)];
+    if() {
+
+    }
+}
+void update() {
+    for i in next_ouput[] {
+
+    }
+}
