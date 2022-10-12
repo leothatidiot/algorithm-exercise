@@ -11,6 +11,10 @@
 /leetcode/**/cpp/*.o
 /leetcode/**/cpp/*.exe
 
+/offer/**/.vscode
+/offer/**/*.o
+/offer/**/*.exe
+
 /offer/**/c++/.vscode
 /offer/**/c++/*.o
 /offer/**/c++/*.exe
