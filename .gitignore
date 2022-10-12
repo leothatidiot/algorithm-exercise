@@ -1,0 +1,16 @@
+
+/leetcode/**/.vscode
+/leetcode/**/*.o
+/leetcode/**/*.exe
+
+/leetcode/**/c++/.vscode
+/leetcode/**/c++/*.o
+/leetcode/**/c++/*.exe
+
+/leetcode/**/cpp/.vscode
+/leetcode/**/cpp/*.o
+/leetcode/**/cpp/*.exe
+
+/offer/**/c++/.vscode
+/offer/**/c++/*.o
+/offer/**/c++/*.exe
